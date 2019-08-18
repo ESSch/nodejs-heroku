@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  node:
+    image: node:8
+    volumes:
+      - .:/usr/src/:rw
+    working_dir: /usr/src/
+    ports:
+      - 8000:8000
