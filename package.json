@@ -1,0 +1,22 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESSch/nodejs-heroku.git"
+  },
+  "author": "ESSch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESSch/nodejs-heroku/issues"
+  },
+  "homepage": "https://github.com/ESSch/nodejs-heroku#readme",
+  "engines": {
+    "node": "8"
+  }
+}
